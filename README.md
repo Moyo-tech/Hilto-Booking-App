@@ -6,7 +6,9 @@
 - Moyosore Weke
 - Beauty Ikudehinbu
 - Kundai Chasinda
-- 
+
+## How to Run the App
+
 ## Resources Used for Assignment
 
 This is a list of resources that we used to complete the assignment:
