@@ -1,6 +1,12 @@
-# MiniProject2 _ Cohort3_Group8).
+# Hilto- Booking App
+- [Prototype Link](https://www.figma.com/file/6ehQVTaJVACpkkNMZaa2Dq/HILTO---HOSPITAL-BOOKING-APPOINTMENT-UI?type=design&node-id=0%3A1&t=EsAN9WtN57BCUGHh-1)
+- [Proposal Document Link](https://docs.google.com/document/d/1NX2bSbnwyoo6ghJIsaUNwyl-nZZSuAwT99ByjzSnGMg/edit?usp=sharing)
 
-
+## Team Members: 
+- Moyosore Weke
+- Beauty Ikudehinbu
+- Kundai Chasinda
+- 
 ## Resources Used for Assignment
 
 This is a list of resources that we used to complete the assignment:
@@ -14,9 +20,3 @@ This is a list of resources that we used to complete the assignment:
 - [Figma](https://www.figma.com/) - Finally, We used Figma for UI/UX design. The tool allowed us to create high-fidelity mockups of the app, which helped us get a better idea of how the final product would look and feel. We were also able to easily collaborate and make changes in real-time.
 
 Overall, these resources were essential in completing the assignment. They provided us with the necessary knowledge and tools needed to create a functional and visually appealing app using Flutter.
-
-
-## Team Members: 
-- Moyosore Weke
-- Beauty Ikudehinbu
-- Kundai Chasinda
