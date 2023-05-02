@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514324471778",
+    "project_id": "hospital-rolebased",
+    "storage_bucket": "hospital-rolebased.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514324471778:android:bbacc838ff646da498a3bb",
+        "android_client_info": {
+          "package_name": "com.example.hospital_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514324471778-7tj8vgatlpfaemtpvlla6avaqsngf8lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBB4R3nSXbYpnUaxz7wuBh19wy01fjMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514324471778-7tj8vgatlpfaemtpvlla6avaqsngf8lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
