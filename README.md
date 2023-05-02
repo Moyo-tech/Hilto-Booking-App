@@ -1,7 +1,7 @@
 # Hilto- Booking App
 - [Prototype Link](https://www.figma.com/file/6ehQVTaJVACpkkNMZaa2Dq/HILTO---HOSPITAL-BOOKING-APPOINTMENT-UI?type=design&node-id=0%3A1&t=EsAN9WtN57BCUGHh-1)
 - [Proposal Document Link](https://docs.google.com/document/d/1NX2bSbnwyoo6ghJIsaUNwyl-nZZSuAwT99ByjzSnGMg/edit?usp=sharing)
-- 
+
 ## Team Members: 
 - Moyosore Weke
 - Beauty Ikudehinbu
