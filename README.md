@@ -10,7 +10,7 @@
 
 ## How to Run the App
 
-## Resources Used for Assignment
+## Resources Used for Summatives
 
 This is a list of resources that we used to complete the assignment:
 
